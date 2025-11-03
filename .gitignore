@@ -1,0 +1,24 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+myenv/
+.env/
+env/
+.venv/
+.vnv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Node / frontend (if you have a frontend folder)
+node_modules/
+dist/
+
+# Python packaging
+*.egg-info/
